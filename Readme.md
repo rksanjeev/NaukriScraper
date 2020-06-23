@@ -1,9 +1,8 @@
 ## Naulkri.com Scraper based on search terms and location
 
 Usage:
-```python
-$ python naukri.py search-terms="space separated search terms" location=City depth=12
-
+``` python
+    $ python naukri.py search-terms="space separated search terms" location=City depth=12
 ```
 Parameters:
 1. search-terms (mandatory) : Space separated search terms
